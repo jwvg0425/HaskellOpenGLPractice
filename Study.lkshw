@@ -1,0 +1,14 @@
+Version of workspace file format:
+               2
+Time of storage:
+               "Sun Nov 15 19:01:33 \45824\54620\48124\44397 \54364\51456\49884 2015"
+Name of the workspace:
+               "Study"
+File paths of contained packages:
+               ["Practice\\Practice.cabal"]
+Maybe file path of an active package:
+               Just "Practice\\Practice.cabal"
+Maybe name of an active executable:
+               Nothing
+Version Control System configurations for packages:
+               fromList []
